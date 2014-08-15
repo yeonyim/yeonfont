@@ -6,12 +6,12 @@ Yeon is a sans-serif font made of minimal lines with a hint of rounded corners. 
 For more details, please visit: [http://yellody.com](http://yellody.com)
 
 
-Downloads
-=========
+Download
+========
 
-[YeonRegular.ttf]YeonRegular
-[YeonBold.ttf]YeonBold
-[YeonMono.ttf]YeonMono
+[YeonRegular.ttf](YeonRegular)
+[YeonBold.ttf](YeonBold)
+[YeonMono.ttf](YeonMono)
 
 
 License
