@@ -16,9 +16,3 @@ License
 -------
 
 Yeon is licensed under SIL Open Font License, see [LICENSE](LICENSE).
-
-
-Official Website
-----------------
-
-For more details, please visit: [http://bananilla.com](http://bananilla.com)
